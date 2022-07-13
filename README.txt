@@ -1,6 +1,8 @@
 Npm init
-to creare package.json file
+to create package.json file
+
 npm i express pg cors
+
 express is a way to create server nodejs
 pg cors is a way to integrate and interact with postgres database
 
